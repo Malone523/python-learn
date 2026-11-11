@@ -1,4 +1,4 @@
-from script1 import *
+from script01 import *
 
 def favorite_drink(drink):
     print(f"Favorite drink is {drink}")
